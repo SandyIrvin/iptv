@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1,YASHRAJMOD : Star Maa
-http://skylogic.site:8080/edmian50con/506462dc/82624
-#EXTINF:-1,YASHRAJMOD : STAR Movies
-http://skylogic.site:8080/edmian50con/506462dc/11511
-#EXTINF:-1,YASHRAJMOD : Star Sports 1
-http://skylogic.site:8080/edmian50con/506462dc/3630
-#EXTINF:-1,IN Star Sports 1
-http://skylogic.site:8080/edmian50con/506462dc/290622
-#EXTINF:-1,YASHRAJMOD : Star Sports 2
-http://skylogic.site:8080/edmian50con/506462dc/3631
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  STAR Maa FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  STAR Maa FHD
+http://pprotv.com:80/asim/asim123456789/60005
